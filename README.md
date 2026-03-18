@@ -1,2 +1,2 @@
-# engeto_lekce_5_a
+# engeto_lekce 5- git a github (pokus)
 testovací repozitář v rámci vyuky Engeto v rámci lekce 5 (git a github)
